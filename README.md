@@ -1,1 +1,2 @@
-# Weather-App
+# Weather App Project
+Author - Debasish Panda
